@@ -1,5 +1,4 @@
-# Interverse the Game
+# Interverse
 ## Team
-* Server Development: TML233
-* Client Development: KoishiC, TML233
+* Programming: TML233
 * Sprite Artist: myon233
